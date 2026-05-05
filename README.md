@@ -12,7 +12,9 @@ A simple, interactive, and fun Rock, Paper, Scissors game built with Python. Thi
 **Clean Code:** Written with readability and best practices in mind.
 
 **Tech Stack**
-**Language:** Python 3.x
+- **HTML5:** Semantic structure.
+- **CSS3:** Custom styling and layout.
+- **JavaScript (ES6):** Game logic and DOM manipulation.
 
 **Modules:** random (for computer's move)
 
